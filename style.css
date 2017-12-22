@@ -1,0 +1,30 @@
+body{
+background-color:lightslategray;
+margin:auto;
+padding:100px;
+}
+.box{background-color:black;
+border:20px solid white;
+text-align:center;
+color:pink;
+padding:70px 10px;
+}
+input{border-radius:7px;}
+.error {color: #FF0000;}
+.lin{color:white;
+font-style:italic;
+text-decoration:underline;}
+.w{text-align:center;
+color:peachpuff;
+text-transform:capitalize;
+font-size:30px;
+font-weight:bold;
+font-style:italic;
+}
+.clr{background-color:black;
+border:20px solid white;
+text-align:center;
+color:pink;
+padding:30px 10px;
+}
+
